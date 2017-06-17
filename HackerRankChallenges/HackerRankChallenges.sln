@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{33266321-F86F-47C7-BBF5-0B792ED5271D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VB", "VB", "{72667102-4E01-47C0-8F81-0ED192011B4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Javascript", "Javascript", "{D6F8C4C5-22D6-4D68-B7FD-FF8FADB44AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysDs", "ArraysDs\ArraysDs.csproj", "{65251205-1EC0-443D-AE6B-05DDC42D799F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65251205-1EC0-443D-AE6B-05DDC42D799F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65251205-1EC0-443D-AE6B-05DDC42D799F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65251205-1EC0-443D-AE6B-05DDC42D799F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65251205-1EC0-443D-AE6B-05DDC42D799F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65251205-1EC0-443D-AE6B-05DDC42D799F} = {33266321-F86F-47C7-BBF5-0B792ED5271D}
+	EndGlobalSection
+EndGlobal
