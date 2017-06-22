@@ -26,8 +26,7 @@ namespace _2DArrayHourglass
             int[,] valores = new int[6, 6];
             IList<int> temporario = new List<int>();
             string linhaEntrada = string.Empty;
-
-
+            
             //popula os valores no array
             for (int linha = 0; linha < 6; linha++)
             {
